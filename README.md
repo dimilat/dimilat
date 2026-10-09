@@ -1,19 +1,5 @@
-## Hi there 👋
-
 <!--
 **dimilat/dimilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- Optional banner: create banner.png (approx. 1280x320) in this repo -->
 <!-- <p align="center">
@@ -49,7 +35,7 @@ I've worked across research institutions, enterprise technology and SaaS platfor
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dimilat.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimilathian@gmail.com)
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=dimilat&color=blue&label=Profile%20Views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/dimilat?label=GitHub%20Followers" alt="GitHub followers" />
 </p>
