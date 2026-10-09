@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
 <!-- Optional banner: create banner.png (approx. 1280x320) in this repo -->
-<p align="center">
+<!-- <p align="center">
   <img src="./banner.png" alt="Dimitris — Frontend & Full-stack Engineer" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue&label=Profile%20Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/USERNAME?label=GitHub%20Followers" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=dimilat&color=blue&label=Profile%20Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dimilat?label=GitHub%20Followers" alt="GitHub followers" />
 </p>
 
 # Hi! 👋 I'm Dimitris
@@ -59,3 +59,4 @@ I've worked across research institutions, enterprise technology and SaaS platfor
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
